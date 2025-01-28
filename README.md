@@ -1,4 +1,4 @@
-TinyRV1 Processor
+#TinyRV1 Processor
 TinyRV1 is a simplified RISC-V processor designed for educational and experimental purposes. This repository contains the hardware design, simulation scripts, test benches, and related files to implement and evaluate the TinyRV1 processor.
 
 Features
